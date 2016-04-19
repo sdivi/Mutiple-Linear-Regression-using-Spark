@@ -1,0 +1,19 @@
+
+/***Command to run the file ***/
+
+$ spark-submit linreg.py yxlin.csv > yxlin.output
+
+and 
+
+$ spark-submit linreg.py AdvertisingISLnoheader.csv > AdvertisingISLnoheader.output
+
+
+Files :
+
+1.linear.py (source code listing)
+
+2.Read Me
+
+3.Output1.txt -- for yxlin.csv
+
+4.Output2.txt -- for AdvertisingISLnoheader.csv
